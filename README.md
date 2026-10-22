@@ -18,3 +18,4 @@ This repository contains my C programming practice files, assignments, and cours
    `gcc Assignment2.c -o Assignment2`
 3. Run the executable:
    `./Assignment2`
+
