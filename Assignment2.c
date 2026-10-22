@@ -3,6 +3,7 @@ int main(){
     int number_of_students;
     double student_scores;
     double total =0.0;
+    
 
     printf("Enter number of students: ");
     scanf("%d", &number_of_students);
